@@ -1,11 +1,11 @@
 
-.container .emoji-btn { 
-    height: 200px;
+.container { 
+    height: 600px;
     position: relative;
     border: 3px solid green; 
   }
   
-  .center .emoji-btn {
+  .center {
     margin: 0;
     position: absolute;
     top: 50%;
@@ -14,7 +14,7 @@
     transform: translate(-50%, -50%);
   }
 button#emoji-btn {
-    font-size: 24rem;
+    font-size: 21rem;
     background-color: transparent;
     filter:grayscale(1);
 
