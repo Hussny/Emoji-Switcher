@@ -1,4 +1,6 @@
-
+body {
+  background-color: black;
+}
 .container { 
     height: 600px;
     position: relative;
@@ -14,7 +16,7 @@
     transform: translate(-50%, -50%);
   }
 button#emoji-btn {
-    font-size: 21rem;
+    font-size: 19rem;
     background-color: transparent;
     filter:grayscale(1);
 
