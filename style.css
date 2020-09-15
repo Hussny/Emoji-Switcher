@@ -1,0 +1,7 @@
+button#emoji-btn {
+    font-size: 2rem;
+    background-color: transparent;
+    filter:grayscale(1);
+
+    transition: transform .2s ease, filter .2s ease;
+}
